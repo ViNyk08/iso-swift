@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'iso/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "iso-swift"
+  spec.name          = "update-iso-swift"
   spec.version       = ISO::VERSION
   spec.authors       = ["Hugo Lantaume"]
   spec.email         = ["hugolantaume@gmail.com"]
