@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["hugolantaume@gmail.com"]
   spec.summary       = %q{Swift code validation and lookup Ruby gem}
   spec.description   = %q{}
-  spec.homepage      = "http://github.com/hugolantaume/iso-swift"
+  spec.homepage      = "https://github.com/ViNyk08/iso-swift"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
